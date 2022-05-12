@@ -8,7 +8,7 @@ I believe in continuous learning & I am constantly reading keeping up-to-date on
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abhishek.rai0522@gmail.com](mailto:abhishek.rai0522@gmail.com)
-* 🧠  I'm learning Full Stack Web Development & Web 3.0 Developer
+* 🧠  I'm learning Full Stack Web Development & Web 3.0 
 * ⚡  I'm nature lover
 
 <a href="https://www.twitter.com/abhishek_rai11" target="_blank" rel="noreferrer"><img
