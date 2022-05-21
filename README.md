@@ -4,7 +4,7 @@ Hi 👋 I'm Abhishek Rai
 Software Developer
 ------------------
 
-I believe in continuous learning & I am constantly reading keeping up-to-date on the latest technologies that can change the world & make It a better place.
+I believe in continuous learning & I am constantly reading and keeping up-to-date on the latest technologies that can change the world & make It a better place.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abhishek.rai0522@gmail.com](mailto:abhishek.rai0522@gmail.com)
